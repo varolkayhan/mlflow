@@ -6,4 +6,5 @@ After installing the Anaconda distribution, we recommend starting the terminal w
 - Create a new environment for the purposes of this tutorial using the following command: `conda create -n mlflow-env python=3.12`
 - Switch to the new environment using the following command: `conda activate mlflow-env`
 - Install the necessary packages in this environment using the following command: `conda install -c conda-forge mlflow, ipython, jupyter`
+
 After the installation is complete, users can open the notebook using the Jupyter Notebook application available at the Anaconda Navigator. 
